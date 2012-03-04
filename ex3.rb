@@ -1,3 +1,5 @@
+# Exercise 3
+
 puts "I will now count my chickens:"
 
 puts "Hens", 25.0 + 30.0 / 6.0
